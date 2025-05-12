@@ -1,0 +1,4 @@
+- rule: ارسال اطلاعات ملک به مدیر
+  steps:
+  - intent: confirm_property
+  - action: action_send_property_info

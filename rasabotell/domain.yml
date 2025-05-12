@@ -1,0 +1,7 @@
+actions:
+  - action_send_property_info
+
+slots:
+  property_info:
+    type: text
+    influence_conversation: false
